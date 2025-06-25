@@ -1,4 +1,4 @@
 a=1
-b=7
+b=18
 c=a*b
 print(c)
